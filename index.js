@@ -5,4 +5,6 @@ function destructivelyAppendKitten(name){
   return kittens
 }
 
-function destructivelyR
+function destructivelyRemoveLastKitten(){
+  kittens.
+}
